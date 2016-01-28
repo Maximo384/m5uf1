@@ -4,5 +4,5 @@
   3. [Tipus de llenguatges de programació](https://github.com/Maximo384/m5uf1/blob/master/tipus.md)
   4. [Paradigmes de programació](https://github.com/Maximo384/m5uf1/blob/master/paradigmes.md)
   5. [Característiques dels llenguatges més difosos](https://github.com/Maximo384/m5uf1/blob/master/difosos.md)
-  6. [Fases del desenvolupament d'una aplicació: anàlisi, disseny, codificació, proves, documentació, manteniment i explotació,   entre d'altres](https://github.com/Maximo384/m5uf1/blob/master/fases.md)
+  6. [Fases del desenvolupament dels sistemes d'informació](https://github.com/Maximo384/m5uf1/blob/master/fases.md)
 
